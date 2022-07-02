@@ -16,6 +16,12 @@ The description should be a __brief and concise one/few-liner__ rather than expl
 The purpose is to quickly find the meaniong of abbreviation, translation to polish, and the given definition helps to undersdtand if it matches the context.
 __Abbreviations should be in alphabetical order.__
 
+## Sources 📖
+
+* Contributors knowledge
+* [The RP Photonics Encyclopedia](https://www.rp-photonics.com/encyclopedia.html)
+* [The free dictionary](https://www.thefreedictionary.com/)
+
 ## The list 📑
 
 | **Acronym** |                 **Description (ENG)**                 |                     **Description (PL)**                     | **Definition**                                                                                                                                                                                                                                                   |
@@ -43,7 +49,7 @@ __Abbreviations should be in alphabetical order.__
 | HEM         | hybrid electromagnetic                                | mod hybrydowy                                                | Hybrid of transverse electric and transverse magnetic mode solutions                                                                                                                                                                                             |
 | HNA         | high NA fiber                                         | światlłowód z dużą aperturą numeryczną                       |                                                                                                                                                                                                                                                                  |
 | HNL         | high nonlinear fiber                                  | światlłowód wysoce nieliniowy                                |                                                                                                                                                                                                                                                                  |
-| IFFT        | inverse fast Fourier transformat                      | odwrotna transformata Fouriera                               | Algorithm that computes the inverse discrete Fourier transform                                                                                                                                                                                                   |
+| IFFT        | inverse fast Fourier transform                        | odwrotna transformata Fouriera                               | Algorithm that computes the inverse discrete Fourier transform                                                                                                                                                                                                   |
 | IGV         | inverse group velocity                                | odwrotność prędkości grupowej                                |                                                                                                                                                                                                                                                                  |
 | IM-FWM      | inter–modal four–wave mixing                          | międzymodowe mieszanie czterofalowe                          | The four wave mixing process supported by two or more spatial modes                                                                                                                                                                                              |
 | IM-V-FWM    | intermodal–vectorial four–wave mixing                 | wektorowe–międzymodowe mieszanie czterofalowe                | The four wave mixing process supported by two or more spatial and polarized modes                                                                                                                                                                                |
